@@ -3,3 +3,6 @@
 
 # Snyk Code Cache
 .dccache
+
+# dev container
+.devcontainer
